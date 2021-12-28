@@ -6,19 +6,4 @@
     <content><![CDATA[<p>今天,我知道該怎麼來製作自己的部落格,並能夠在網站上打字寫文章</p>
 ]]></content>
   </entry>
-  <entry>
-    <title>測試</title>
-    <url>/2021/12/26/%E6%B8%AC%E8%A9%A6/</url>
-    <content><![CDATA[<p>normal<br>规定一个常规（normal）字型；每个非简写的属性的初始值都是normal。属于 font-variant 的非简写属性有：font-variant-caps, font-variant-numeric, font-variant-alternates, font-variant-ligatures 和 font-variant-east-asian (en-US)。<br>none<br>将font-variant-ligatures设定为 none ，将其他非简写属性的值设定为初始值normal。<br><common-lig-values>, <discretionary-lig-values>, <historical-lig-values>, <contextual-alt-values><br>规定与font-variant-ligatures属性相关的关键字，可能的值包括： common-ligatures, no-common-ligatures, discretionary-ligatures, no-discretionary-ligatures, historical-ligatures, no-historical-ligatures, contextual 和 no-contextual。<br>stylistic(),  historical-forms, styleset(), character-variant(), swash(), ornaments(), annotation()<br>规定与font-variant-alternates属性相关的关键字和函数。<br>small-caps, all-small-caps, petite-caps, all-petite-caps, unicase, titling-caps<br>规定与font-variant-caps 属性相关的关键字和函数。<br><numeric-figure-values>, <numeric-spacing-values>, <numeric-fraction-values>, ordinal, slashed-zero<br>规定与font-variant-alternates属性相关的关键字，可能的值包括：lining-nums, oldstyle-nums, proportional-nums, tabular-nums, diagonal-fractions, stacked-fractions, ordinal 和 slashed-zero。<br><east-asian-variant-values>, <east-asian-width-values>, ruby<br>规定与font-variant-east-asian (en-US)属性相关的关键字，可能的值包括：jis78, jis83, jis90, jis04, simplified, traditional, full-width, proportional-width, ruby。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>測試2</title>
-    <url>/2021/12/28/%E6%B8%AC%E8%A9%A62/</url>
-    <content><![CDATA[<p>normal<br>规定一个常规（normal）字型；每个非简写的属性的初始值都是normal。属于 font-variant 的非简写属性有：font-variant-caps, font-variant-numeric, font-variant-alternates, font-variant-ligatures 和 font-variant-east-asian (en-US)。<br>none<br>将font-variant-ligatures设定为 none ，将其他非简写属性的值设定为初始值normal。<br>, , ,<br>规定与font-variant-ligatures属性相关的关键字，可能的值包括： common-ligatures, no-common-ligatures, discretionary-ligatures, no-discretionary-ligatures, historical-ligatures, no-historical-ligatures, contextual 和 no-contextual。<br>stylistic(), historical-forms, styleset(), character-variant(), swash(), ornaments(), annotation()<br>规定与font-variant-alternates属性相关的关键字和函数。<br>small-caps, all-small-caps, petite-caps, all-petite-caps, unicase, titling-caps<br>规定与font-variant-caps 属性相关的关键字和函数。<br>, , , ordinal, slashed-zero<br>规定与font-variant-alternates属性相关的关键字，可能的值包括：lining-nums, oldstyle-nums, proportional-nums, tabular-nums, diagonal-fractions, stacked-fractions, ordinal 和 slashed-zero。<br>, , ruby<br>规定与font-variant-east-asian (en-US)属性相关的关键字，可能的值包括：jis78, jis83, jis90, jis04, simplified, traditional, full-width, proportional-width, ruby。</p>
-]]></content>
-      <tags>
-        <tag>1</tag>
-      </tags>
-  </entry>
 </search>
